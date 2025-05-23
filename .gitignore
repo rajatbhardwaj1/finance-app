@@ -1,1 +1,3 @@
 token
+client/.env
+server/.env
